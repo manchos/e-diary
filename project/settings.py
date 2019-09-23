@@ -6,13 +6,16 @@ load_dotenv()
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.getenv("DATABASE_NAME", "schoolbase.sqlite3"),
+        'NAME': os.getenv("DB_NAME"),
     }
 }
 
-INSTALLED_APPS = ['datacenter']
+INSTALLED_APPS = [
+    'datacenter',
+    'django_extensions',
+]
 
-SECRET_KEY = os.getenv("SECRET_KEY", "REPLACE_ME")
+SECRET_KEY = os.getenv("SECRET_KEY")
 
 DEBUG = os.getenv("DEBUG", "true").lower() in ['yes', '1', 'true']
 
