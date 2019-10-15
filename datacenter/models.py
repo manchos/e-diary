@@ -96,11 +96,15 @@ class Commendation(models.Model):
 
 
 schoolkid = Schoolkid.objects.filter(full_name__contains='Фролов Иван')[0]
+# schoolkid2 = Schoolkid.objects.filter(full_name__contains='Голубев Феофан')[0]
+# from datacenter.models import remove_chastisements
+
 
 def fix_marks(schoolkid):
-    bad_marks = Mark.objects.filter(
+    Mark.objects.filter(
         schoolkid=schoolkid, points__in=(2, 3)
     ).update(points=5)
+
     # for mark in bad_marks:
     #     mark.points = 5
 
@@ -134,29 +138,39 @@ def get_random_commendation():
     return random.choice(commendation_list)
 
 
+def get_lessons(schoolkid, lesson_name):
+    return Lesson.objects.filter(
+        year_of_study=schoolkid.year_of_study,
+        group_letter=schoolkid.group_letter,
+        subject__title__contains=lesson_name,
+    )
+
+
 def create_commendation(child_name, lesson_name):
     kid = Schoolkid.objects.filter(full_name__contains=child_name).get()
     last_kid_lesson = Lesson.objects.filter(
         year_of_study=kid.year_of_study,
         group_letter=kid.group_letter,
         subject__title__contains=lesson_name,
-    ).order_by('-date').get()
-
+    ).order_by('-date')[0]
+    # print(last_kid_lesson)
     random_commendation = get_random_commendation()
     # print(random_commendation)
-    Commendation.objects.create(
+    new_commendation = Commendation.objects.create(
         text=random_commendation,
         created=last_kid_lesson.date,
         schoolkid=kid,
         subject=last_kid_lesson.subject,
         teacher=last_kid_lesson.teacher,
     )
+    return new_commendation
+    # new_commendation.save()
     #
     # print(last_kid_lesson)
 
 
-
-from datacenter.models import create_commendation
-create_commendation('Фролов Иван', 'Математика')
+#
+# from datacenter.models import create_commendation
+# create_commendation('Фролов Иван', 'Математика')
 # #
 

@@ -40,3 +40,8 @@ LANGUAGE_CODE = 'ru-ru'
 TIME_ZONE = 'Europe/Moscow'
 
 USE_TZ = True
+
+SHELL_PLUS_PRINT_SQL = True
+SHELL_PLUS_POST_IMPORTS = [
+    ('datacenter.models', ('create_commendation')),
+]

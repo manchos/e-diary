@@ -1,0 +1,1178 @@
+[
+{
+  "model": "datacenter.subject",
+  "pk": 883,
+  "fields": {
+    "title": "Информатика",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 884,
+  "fields": {
+    "title": "Информатика",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 885,
+  "fields": {
+    "title": "Информатика",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 886,
+  "fields": {
+    "title": "Информатика",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 887,
+  "fields": {
+    "title": "Информатика",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 888,
+  "fields": {
+    "title": "Естествознание",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 889,
+  "fields": {
+    "title": "Естествознание",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 890,
+  "fields": {
+    "title": "Труд",
+    "year_of_study": 1
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 891,
+  "fields": {
+    "title": "Труд",
+    "year_of_study": 2
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 892,
+  "fields": {
+    "title": "Труд",
+    "year_of_study": 3
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 893,
+  "fields": {
+    "title": "Труд",
+    "year_of_study": 4
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 894,
+  "fields": {
+    "title": "Краеведение",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 895,
+  "fields": {
+    "title": "Краеведение",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 896,
+  "fields": {
+    "title": "Краеведение",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 897,
+  "fields": {
+    "title": "География",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 898,
+  "fields": {
+    "title": "География",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 899,
+  "fields": {
+    "title": "География",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 900,
+  "fields": {
+    "title": "География",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 901,
+  "fields": {
+    "title": "География",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 902,
+  "fields": {
+    "title": "Геометрия",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 903,
+  "fields": {
+    "title": "Геометрия",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 904,
+  "fields": {
+    "title": "Геометрия",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 905,
+  "fields": {
+    "title": "Геометрия",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 906,
+  "fields": {
+    "title": "Геометрия",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 907,
+  "fields": {
+    "title": "Математика",
+    "year_of_study": 1
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 908,
+  "fields": {
+    "title": "Математика",
+    "year_of_study": 2
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 909,
+  "fields": {
+    "title": "Математика",
+    "year_of_study": 3
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 910,
+  "fields": {
+    "title": "Математика",
+    "year_of_study": 4
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 911,
+  "fields": {
+    "title": "Математика",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 912,
+  "fields": {
+    "title": "Математика",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 913,
+  "fields": {
+    "title": "Музыка",
+    "year_of_study": 1
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 914,
+  "fields": {
+    "title": "Музыка",
+    "year_of_study": 2
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 915,
+  "fields": {
+    "title": "Музыка",
+    "year_of_study": 3
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 916,
+  "fields": {
+    "title": "Музыка",
+    "year_of_study": 4
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 917,
+  "fields": {
+    "title": "Музыка",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 918,
+  "fields": {
+    "title": "Музыка",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 919,
+  "fields": {
+    "title": "Музыка",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 920,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 1
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 921,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 2
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 922,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 3
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 923,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 4
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 924,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 925,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 926,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 927,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 928,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 929,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 930,
+  "fields": {
+    "title": "Физкультура",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 931,
+  "fields": {
+    "title": "Чтение",
+    "year_of_study": 1
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 932,
+  "fields": {
+    "title": "Чтение",
+    "year_of_study": 2
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 933,
+  "fields": {
+    "title": "Чтение",
+    "year_of_study": 3
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 934,
+  "fields": {
+    "title": "Чтение",
+    "year_of_study": 4
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 935,
+  "fields": {
+    "title": "Изобразительное искусство",
+    "year_of_study": 1
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 936,
+  "fields": {
+    "title": "Изобразительное искусство",
+    "year_of_study": 2
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 937,
+  "fields": {
+    "title": "Изобразительное искусство",
+    "year_of_study": 3
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 938,
+  "fields": {
+    "title": "Изобразительное искусство",
+    "year_of_study": 4
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 939,
+  "fields": {
+    "title": "Изобразительное искусство",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 940,
+  "fields": {
+    "title": "Изобразительное искусство",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 941,
+  "fields": {
+    "title": "Изобразительное искусство",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 942,
+  "fields": {
+    "title": "Технология",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 943,
+  "fields": {
+    "title": "Технология",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 944,
+  "fields": {
+    "title": "Технология",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 945,
+  "fields": {
+    "title": "Технология",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 946,
+  "fields": {
+    "title": "Технология",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 947,
+  "fields": {
+    "title": "Технология",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 948,
+  "fields": {
+    "title": "Технология",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 949,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 1
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 950,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 2
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 951,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 3
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 952,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 4
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 953,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 954,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 955,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 956,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 957,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 958,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 959,
+  "fields": {
+    "title": "Русский язык",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 960,
+  "fields": {
+    "title": "Литература",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 961,
+  "fields": {
+    "title": "Литература",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 962,
+  "fields": {
+    "title": "Литература",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 963,
+  "fields": {
+    "title": "Литература",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 964,
+  "fields": {
+    "title": "Литература",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 965,
+  "fields": {
+    "title": "Литература",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 966,
+  "fields": {
+    "title": "Литература",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 967,
+  "fields": {
+    "title": "Алгебра",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 968,
+  "fields": {
+    "title": "Алгебра",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 969,
+  "fields": {
+    "title": "Алгебра",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 970,
+  "fields": {
+    "title": "Алгебра",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 971,
+  "fields": {
+    "title": "Алгебра",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 972,
+  "fields": {
+    "title": "Обществознание",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 973,
+  "fields": {
+    "title": "Обществознание",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 974,
+  "fields": {
+    "title": "Обществознание",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 975,
+  "fields": {
+    "title": "Обществознание",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 976,
+  "fields": {
+    "title": "Обществознание",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 977,
+  "fields": {
+    "title": "Обществознание",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 978,
+  "fields": {
+    "title": "Химия",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 979,
+  "fields": {
+    "title": "Химия",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 980,
+  "fields": {
+    "title": "Химия",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 981,
+  "fields": {
+    "title": "Химия",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 982,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 2
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 983,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 3
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 984,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 4
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 985,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 986,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 987,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 988,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 989,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 990,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 991,
+  "fields": {
+    "title": "Иностранный язык",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 992,
+  "fields": {
+    "title": "Чистописание",
+    "year_of_study": 1
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 993,
+  "fields": {
+    "title": "Биология",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 994,
+  "fields": {
+    "title": "Биология",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 995,
+  "fields": {
+    "title": "Биология",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 996,
+  "fields": {
+    "title": "Биология",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 997,
+  "fields": {
+    "title": "Биология",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 998,
+  "fields": {
+    "title": "Биология",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 999,
+  "fields": {
+    "title": "Черчение",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1000,
+  "fields": {
+    "title": "Черчение",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1001,
+  "fields": {
+    "title": "Черчение",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1002,
+  "fields": {
+    "title": "Физика",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1003,
+  "fields": {
+    "title": "Физика",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1004,
+  "fields": {
+    "title": "Физика",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1005,
+  "fields": {
+    "title": "Физика",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1006,
+  "fields": {
+    "title": "Физика",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1007,
+  "fields": {
+    "title": "Природоведение",
+    "year_of_study": 1
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1008,
+  "fields": {
+    "title": "Природоведение",
+    "year_of_study": 2
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1009,
+  "fields": {
+    "title": "Природоведение",
+    "year_of_study": 3
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1010,
+  "fields": {
+    "title": "Природоведение",
+    "year_of_study": 4
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1011,
+  "fields": {
+    "title": "Природоведение",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1012,
+  "fields": {
+    "title": "История",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1013,
+  "fields": {
+    "title": "История",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1014,
+  "fields": {
+    "title": "История",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1015,
+  "fields": {
+    "title": "История",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1016,
+  "fields": {
+    "title": "История",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1017,
+  "fields": {
+    "title": "История",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1018,
+  "fields": {
+    "title": "История",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1019,
+  "fields": {
+    "title": "Основы безопасности жизнедеятельности (ОБЖ)",
+    "year_of_study": 5
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1020,
+  "fields": {
+    "title": "Основы безопасности жизнедеятельности (ОБЖ)",
+    "year_of_study": 6
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1021,
+  "fields": {
+    "title": "Основы безопасности жизнедеятельности (ОБЖ)",
+    "year_of_study": 7
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1022,
+  "fields": {
+    "title": "Основы безопасности жизнедеятельности (ОБЖ)",
+    "year_of_study": 8
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1023,
+  "fields": {
+    "title": "Основы безопасности жизнедеятельности (ОБЖ)",
+    "year_of_study": 9
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1024,
+  "fields": {
+    "title": "Основы безопасности жизнедеятельности (ОБЖ)",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1025,
+  "fields": {
+    "title": "Основы безопасности жизнедеятельности (ОБЖ)",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1026,
+  "fields": {
+    "title": "Экономика",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1027,
+  "fields": {
+    "title": "Экономика",
+    "year_of_study": 11
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1028,
+  "fields": {
+    "title": "Правоведение",
+    "year_of_study": 10
+  }
+},
+{
+  "model": "datacenter.subject",
+  "pk": 1029,
+  "fields": {
+    "title": "Правоведение",
+    "year_of_study": 11
+  }
+}
+]

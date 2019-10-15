@@ -1,0 +1,10623 @@
+[
+{
+  "model": "datacenter.lesson",
+  "pk": 54508,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "108",
+    "date": "2018-11-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54509,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "329",
+    "date": "2018-11-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54510,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "107",
+    "date": "2018-11-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54511,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "210",
+    "date": "2018-11-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54512,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "298",
+    "date": "2018-11-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54513,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "102",
+    "date": "2018-11-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54514,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "211",
+    "date": "2018-11-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54515,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "228",
+    "date": "2018-11-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54516,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "41",
+    "date": "2018-11-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54517,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "79",
+    "date": "2018-11-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54518,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "323",
+    "date": "2018-11-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54519,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "241",
+    "date": "2018-11-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54520,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "66",
+    "date": "2018-11-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54521,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "109",
+    "date": "2018-11-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54522,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "146",
+    "date": "2018-11-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54523,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "79",
+    "date": "2018-11-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54524,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "65",
+    "date": "2018-11-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54525,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "219",
+    "date": "2018-11-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54526,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "327",
+    "date": "2018-11-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54527,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "202",
+    "date": "2018-11-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54528,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "209",
+    "date": "2018-11-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54529,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "48",
+    "date": "2018-11-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54530,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "271",
+    "date": "2018-11-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54531,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "146",
+    "date": "2018-11-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54532,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "127",
+    "date": "2018-11-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54533,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "221",
+    "date": "2018-11-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54534,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "249",
+    "date": "2018-11-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54535,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "297",
+    "date": "2018-11-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54536,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "147",
+    "date": "2018-11-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54537,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "87",
+    "date": "2018-11-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54538,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "156",
+    "date": "2018-11-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54539,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "10",
+    "date": "2018-11-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54540,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "249",
+    "date": "2018-11-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54541,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "181",
+    "date": "2018-11-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54542,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "340",
+    "date": "2018-11-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54543,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "274",
+    "date": "2018-11-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54544,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "92",
+    "date": "2018-11-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54545,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "180",
+    "date": "2018-11-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54546,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "293",
+    "date": "2018-11-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54547,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "329",
+    "date": "2018-11-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54548,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "182",
+    "date": "2018-11-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54549,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "48",
+    "date": "2018-11-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54550,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "155",
+    "date": "2018-11-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54551,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "124",
+    "date": "2018-11-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54552,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "49",
+    "date": "2018-11-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54553,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "10",
+    "date": "2018-11-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54554,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "295",
+    "date": "2018-11-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54555,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "134",
+    "date": "2018-11-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54556,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "288",
+    "date": "2018-11-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54557,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "58",
+    "date": "2018-11-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54558,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "312",
+    "date": "2018-11-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54559,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "74",
+    "date": "2018-11-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54560,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "60",
+    "date": "2018-11-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54561,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "78",
+    "date": "2018-11-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54562,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "76",
+    "date": "2018-11-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54563,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "87",
+    "date": "2018-11-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54564,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "18",
+    "date": "2018-11-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54565,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "238",
+    "date": "2018-11-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54566,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "263",
+    "date": "2018-11-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54567,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "135",
+    "date": "2018-11-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54568,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "125",
+    "date": "2018-11-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54569,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "66",
+    "date": "2018-11-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54570,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "273",
+    "date": "2018-12-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54571,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "269",
+    "date": "2018-12-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54572,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "294",
+    "date": "2018-12-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54573,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "120",
+    "date": "2018-12-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54574,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "336",
+    "date": "2018-12-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54575,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "267",
+    "date": "2018-12-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54576,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "82",
+    "date": "2018-12-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54577,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "323",
+    "date": "2018-12-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54578,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "330",
+    "date": "2018-12-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54579,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "185",
+    "date": "2018-12-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54580,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "14",
+    "date": "2018-12-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54581,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "300",
+    "date": "2018-12-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54582,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "47",
+    "date": "2018-12-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54583,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "253",
+    "date": "2018-12-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54584,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "279",
+    "date": "2018-12-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54585,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "250",
+    "date": "2018-12-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54586,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "70",
+    "date": "2018-12-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54587,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "199",
+    "date": "2018-12-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54588,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "224",
+    "date": "2018-12-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54589,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "237",
+    "date": "2018-12-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54590,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "299",
+    "date": "2018-12-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54591,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "64",
+    "date": "2018-12-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54592,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "307",
+    "date": "2018-12-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54593,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "137",
+    "date": "2018-12-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54594,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "220",
+    "date": "2018-12-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54595,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "114",
+    "date": "2018-12-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54596,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "329",
+    "date": "2018-12-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54597,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "120",
+    "date": "2018-12-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54598,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "149",
+    "date": "2018-12-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54599,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "203",
+    "date": "2018-12-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54600,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "290",
+    "date": "2018-12-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54601,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "219",
+    "date": "2018-12-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54602,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "249",
+    "date": "2018-12-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54603,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "73",
+    "date": "2018-12-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54604,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "64",
+    "date": "2018-12-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54605,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "101",
+    "date": "2018-12-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54606,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "332",
+    "date": "2018-12-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54607,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "315",
+    "date": "2018-12-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54608,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "301",
+    "date": "2018-12-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54609,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "146",
+    "date": "2018-12-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54610,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "179",
+    "date": "2018-12-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54611,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "245",
+    "date": "2018-12-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54612,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "328",
+    "date": "2018-12-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54613,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "170",
+    "date": "2018-12-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54614,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "78",
+    "date": "2018-12-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54615,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "197",
+    "date": "2018-12-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54616,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "186",
+    "date": "2018-12-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54617,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "229",
+    "date": "2018-12-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54618,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "247",
+    "date": "2018-12-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54619,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "299",
+    "date": "2018-12-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54620,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "35",
+    "date": "2018-12-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54621,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "201",
+    "date": "2018-12-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54622,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "24",
+    "date": "2018-12-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54623,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "146",
+    "date": "2018-12-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54624,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "297",
+    "date": "2018-12-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54625,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "61",
+    "date": "2018-12-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54626,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "226",
+    "date": "2018-12-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54627,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "66",
+    "date": "2018-12-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54628,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "165",
+    "date": "2018-12-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54629,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "263",
+    "date": "2018-12-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54630,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "240",
+    "date": "2018-12-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54631,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "32",
+    "date": "2018-12-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54632,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "335",
+    "date": "2018-12-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54633,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "201",
+    "date": "2018-12-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54634,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "294",
+    "date": "2018-12-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54635,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "245",
+    "date": "2018-12-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54636,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "182",
+    "date": "2018-12-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54637,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "293",
+    "date": "2018-12-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54638,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "170",
+    "date": "2018-12-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54639,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "30",
+    "date": "2018-12-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54640,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "119",
+    "date": "2018-12-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54641,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "171",
+    "date": "2018-12-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54642,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "92",
+    "date": "2018-12-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54643,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "147",
+    "date": "2018-12-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54644,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "197",
+    "date": "2018-12-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54645,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "224",
+    "date": "2018-12-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54646,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "230",
+    "date": "2018-12-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54647,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "120",
+    "date": "2018-12-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54648,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "108",
+    "date": "2018-12-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54649,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "276",
+    "date": "2018-12-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54650,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "76",
+    "date": "2018-12-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54651,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "185",
+    "date": "2018-12-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54652,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "266",
+    "date": "2018-12-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54653,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "82",
+    "date": "2018-12-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54654,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "42",
+    "date": "2018-12-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54655,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "74",
+    "date": "2018-12-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54656,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "328",
+    "date": "2018-12-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54657,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "13",
+    "date": "2018-12-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54658,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "259",
+    "date": "2018-12-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54659,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "71",
+    "date": "2018-12-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54660,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "307",
+    "date": "2018-12-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54661,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "62",
+    "date": "2018-12-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54662,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "294",
+    "date": "2018-12-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54663,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "92",
+    "date": "2018-12-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54664,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "190",
+    "date": "2018-12-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54665,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "119",
+    "date": "2018-12-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54666,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "91",
+    "date": "2018-12-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54667,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "111",
+    "date": "2018-12-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54668,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "34",
+    "date": "2018-12-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54669,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "165",
+    "date": "2018-12-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54670,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "14",
+    "date": "2018-12-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54671,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "263",
+    "date": "2018-12-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54672,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "78",
+    "date": "2018-12-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54673,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "254",
+    "date": "2018-12-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54674,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "97",
+    "date": "2018-12-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54675,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "189",
+    "date": "2018-12-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54676,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "160",
+    "date": "2018-12-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54677,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "216",
+    "date": "2018-12-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54678,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "201",
+    "date": "2018-12-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54679,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "131",
+    "date": "2018-12-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54680,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "266",
+    "date": "2018-12-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54681,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "164",
+    "date": "2018-12-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54682,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "162",
+    "date": "2018-12-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54683,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "177",
+    "date": "2018-12-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54684,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "132",
+    "date": "2018-12-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54685,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "175",
+    "date": "2018-12-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54686,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "50",
+    "date": "2018-12-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54687,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "293",
+    "date": "2018-12-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54688,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "211",
+    "date": "2018-12-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54689,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "53",
+    "date": "2018-12-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54690,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "99",
+    "date": "2018-12-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54691,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "295",
+    "date": "2018-12-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54692,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "139",
+    "date": "2018-12-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54693,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "91",
+    "date": "2018-12-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54694,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "225",
+    "date": "2018-12-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54695,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "105",
+    "date": "2018-12-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54696,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "75",
+    "date": "2018-12-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54697,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "308",
+    "date": "2018-12-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54698,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "57",
+    "date": "2018-12-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54699,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "257",
+    "date": "2018-12-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54700,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "165",
+    "date": "2019-01-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54701,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "232",
+    "date": "2019-01-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54702,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "56",
+    "date": "2019-01-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54703,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "53",
+    "date": "2019-01-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54704,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "202",
+    "date": "2019-01-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54705,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "104",
+    "date": "2019-01-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54706,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "40",
+    "date": "2019-01-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54707,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "328",
+    "date": "2019-01-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54708,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "143",
+    "date": "2019-01-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54709,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "14",
+    "date": "2019-01-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54710,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "146",
+    "date": "2019-01-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54711,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "182",
+    "date": "2019-01-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54712,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "264",
+    "date": "2019-01-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54713,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "299",
+    "date": "2019-01-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54714,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "88",
+    "date": "2019-01-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54715,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "172",
+    "date": "2019-01-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54716,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "174",
+    "date": "2019-01-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54717,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "272",
+    "date": "2019-01-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54718,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "93",
+    "date": "2019-01-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54719,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "16",
+    "date": "2019-01-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54720,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "40",
+    "date": "2019-01-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54721,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "227",
+    "date": "2019-01-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54722,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "301",
+    "date": "2019-01-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54723,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "294",
+    "date": "2019-01-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54724,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "250",
+    "date": "2019-01-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54725,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "63",
+    "date": "2019-01-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54726,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "313",
+    "date": "2019-01-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54727,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "234",
+    "date": "2019-01-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54728,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "10",
+    "date": "2019-01-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54729,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "338",
+    "date": "2019-01-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54730,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "123",
+    "date": "2019-01-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54731,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "77",
+    "date": "2019-01-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54732,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "319",
+    "date": "2019-01-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54733,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "281",
+    "date": "2019-01-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54734,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "142",
+    "date": "2019-01-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54735,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "263",
+    "date": "2019-01-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54736,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "249",
+    "date": "2019-01-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54737,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "138",
+    "date": "2019-01-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54738,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "233",
+    "date": "2019-01-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54739,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "195",
+    "date": "2019-01-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54740,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "173",
+    "date": "2019-01-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54741,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "153",
+    "date": "2019-01-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54742,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "262",
+    "date": "2019-01-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54743,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "258",
+    "date": "2019-01-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54744,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "287",
+    "date": "2019-01-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54745,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "79",
+    "date": "2019-01-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54746,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "273",
+    "date": "2019-01-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54747,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "316",
+    "date": "2019-01-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54748,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "277",
+    "date": "2019-01-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54749,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "142",
+    "date": "2019-01-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54750,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "99",
+    "date": "2019-01-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54751,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "269",
+    "date": "2019-01-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54752,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "158",
+    "date": "2019-01-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54753,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "55",
+    "date": "2019-01-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54754,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "131",
+    "date": "2019-01-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54755,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "38",
+    "date": "2019-01-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54756,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "85",
+    "date": "2019-01-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54757,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "33",
+    "date": "2019-01-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54758,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "175",
+    "date": "2019-01-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54759,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "236",
+    "date": "2019-01-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54760,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "274",
+    "date": "2019-01-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54761,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "173",
+    "date": "2019-01-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54762,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "57",
+    "date": "2019-01-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54763,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "263",
+    "date": "2019-01-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54764,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "81",
+    "date": "2019-01-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54765,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "306",
+    "date": "2019-01-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54766,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "208",
+    "date": "2019-01-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54767,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "31",
+    "date": "2019-01-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54768,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "266",
+    "date": "2019-01-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54769,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "305",
+    "date": "2019-01-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54770,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "53",
+    "date": "2019-01-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54771,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "61",
+    "date": "2019-01-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54772,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "333",
+    "date": "2019-01-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54773,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "24",
+    "date": "2019-01-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54774,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "120",
+    "date": "2019-01-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54775,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "161",
+    "date": "2019-01-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54776,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "173",
+    "date": "2019-01-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54777,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "202",
+    "date": "2019-01-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54778,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "209",
+    "date": "2019-01-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54779,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "134",
+    "date": "2019-01-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54780,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "98",
+    "date": "2019-01-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54781,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "230",
+    "date": "2019-01-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54782,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "86",
+    "date": "2019-01-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54783,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "292",
+    "date": "2019-01-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54784,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "268",
+    "date": "2019-01-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54785,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "78",
+    "date": "2019-01-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54786,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "21",
+    "date": "2019-01-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54787,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "272",
+    "date": "2019-01-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54788,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "185",
+    "date": "2019-01-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54789,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "128",
+    "date": "2019-01-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54790,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "261",
+    "date": "2019-01-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54791,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "326",
+    "date": "2019-01-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54792,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "77",
+    "date": "2019-01-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54793,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "240",
+    "date": "2019-01-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54794,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "263",
+    "date": "2019-01-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54795,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "231",
+    "date": "2019-01-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54796,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "98",
+    "date": "2019-01-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54797,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "78",
+    "date": "2019-01-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54798,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "147",
+    "date": "2019-01-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54799,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "235",
+    "date": "2019-01-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54800,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "149",
+    "date": "2019-01-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54801,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "204",
+    "date": "2019-01-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54802,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "326",
+    "date": "2019-01-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54803,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "294",
+    "date": "2019-01-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54804,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "88",
+    "date": "2019-01-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54805,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "189",
+    "date": "2019-01-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54806,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "210",
+    "date": "2019-01-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54807,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "163",
+    "date": "2019-01-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54808,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "84",
+    "date": "2019-01-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54809,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "282",
+    "date": "2019-01-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54810,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "41",
+    "date": "2019-01-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54811,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "269",
+    "date": "2019-01-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54812,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "291",
+    "date": "2019-01-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54813,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "194",
+    "date": "2019-01-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54814,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "261",
+    "date": "2019-01-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54815,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "280",
+    "date": "2019-01-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54816,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "191",
+    "date": "2019-01-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54817,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "75",
+    "date": "2019-01-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54818,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "315",
+    "date": "2019-01-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54819,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "318",
+    "date": "2019-01-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54820,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "217",
+    "date": "2019-01-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54821,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "111",
+    "date": "2019-01-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54822,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "271",
+    "date": "2019-01-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54823,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "17",
+    "date": "2019-01-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54824,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "54",
+    "date": "2019-01-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54825,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "286",
+    "date": "2019-01-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54826,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "47",
+    "date": "2019-01-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54827,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "323",
+    "date": "2019-01-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54828,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "225",
+    "date": "2019-01-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54829,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "240",
+    "date": "2019-01-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54830,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "60",
+    "date": "2019-01-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54831,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "53",
+    "date": "2019-01-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54832,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "14",
+    "date": "2019-01-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54833,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "140",
+    "date": "2019-01-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54834,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "19",
+    "date": "2019-01-31"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54835,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "261",
+    "date": "2019-02-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54836,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "299",
+    "date": "2019-02-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54837,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "250",
+    "date": "2019-02-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54838,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "308",
+    "date": "2019-02-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54839,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "200",
+    "date": "2019-02-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54840,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "292",
+    "date": "2019-02-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54841,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "180",
+    "date": "2019-02-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54842,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "195",
+    "date": "2019-02-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54843,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "104",
+    "date": "2019-02-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54844,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "31",
+    "date": "2019-02-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54845,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "294",
+    "date": "2019-02-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54846,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "222",
+    "date": "2019-02-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54847,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "158",
+    "date": "2019-02-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54848,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "74",
+    "date": "2019-02-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54849,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "269",
+    "date": "2019-02-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54850,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "143",
+    "date": "2019-02-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54851,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "60",
+    "date": "2019-02-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54852,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "302",
+    "date": "2019-02-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54853,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "340",
+    "date": "2019-02-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54854,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "231",
+    "date": "2019-02-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54855,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "106",
+    "date": "2019-02-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54856,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "266",
+    "date": "2019-02-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54857,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "251",
+    "date": "2019-02-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54858,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "167",
+    "date": "2019-02-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54859,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "258",
+    "date": "2019-02-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54860,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "263",
+    "date": "2019-02-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54861,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "75",
+    "date": "2019-02-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54862,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "57",
+    "date": "2019-02-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54863,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "322",
+    "date": "2019-02-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54864,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "230",
+    "date": "2019-02-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54865,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "326",
+    "date": "2019-02-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54866,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "101",
+    "date": "2019-02-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54867,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "39",
+    "date": "2019-02-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54868,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "228",
+    "date": "2019-02-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54869,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "53",
+    "date": "2019-02-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54870,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "141",
+    "date": "2019-02-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54871,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "322",
+    "date": "2019-02-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54872,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "326",
+    "date": "2019-02-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54873,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "175",
+    "date": "2019-02-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54874,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "292",
+    "date": "2019-02-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54875,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "171",
+    "date": "2019-02-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54876,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "185",
+    "date": "2019-02-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54877,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "162",
+    "date": "2019-02-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54878,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "316",
+    "date": "2019-02-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54879,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "251",
+    "date": "2019-02-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54880,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "170",
+    "date": "2019-02-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54881,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "219",
+    "date": "2019-02-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54882,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "187",
+    "date": "2019-02-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54883,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "299",
+    "date": "2019-02-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54884,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "89",
+    "date": "2019-02-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54885,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "20",
+    "date": "2019-02-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54886,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "314",
+    "date": "2019-02-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54887,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "53",
+    "date": "2019-02-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54888,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "200",
+    "date": "2019-02-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54889,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "262",
+    "date": "2019-02-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54890,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "222",
+    "date": "2019-02-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54891,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "325",
+    "date": "2019-02-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54892,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "247",
+    "date": "2019-02-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54893,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "72",
+    "date": "2019-02-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54894,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "107",
+    "date": "2019-02-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54895,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "43",
+    "date": "2019-02-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54896,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "53",
+    "date": "2019-02-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54897,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "340",
+    "date": "2019-02-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54898,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "127",
+    "date": "2019-02-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54899,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "137",
+    "date": "2019-02-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54900,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "334",
+    "date": "2019-02-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54901,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "292",
+    "date": "2019-02-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54902,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "184",
+    "date": "2019-02-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54903,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "20",
+    "date": "2019-02-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54904,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "258",
+    "date": "2019-02-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54905,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "165",
+    "date": "2019-02-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54906,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "41",
+    "date": "2019-02-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54907,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "188",
+    "date": "2019-02-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54908,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "163",
+    "date": "2019-02-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54909,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "317",
+    "date": "2019-02-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54910,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "221",
+    "date": "2019-02-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54911,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "328",
+    "date": "2019-02-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54912,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "230",
+    "date": "2019-02-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54913,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "255",
+    "date": "2019-02-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54914,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "190",
+    "date": "2019-02-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54915,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "127",
+    "date": "2019-02-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54916,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "74",
+    "date": "2019-02-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54917,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "175",
+    "date": "2019-02-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54918,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "250",
+    "date": "2019-02-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54919,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "18",
+    "date": "2019-02-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54920,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "225",
+    "date": "2019-02-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54921,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "263",
+    "date": "2019-02-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54922,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "189",
+    "date": "2019-02-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54923,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "270",
+    "date": "2019-02-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54924,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "292",
+    "date": "2019-02-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54925,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "94",
+    "date": "2019-02-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54926,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "218",
+    "date": "2019-02-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54927,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "70",
+    "date": "2019-02-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54928,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "32",
+    "date": "2019-02-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54929,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "223",
+    "date": "2019-02-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54930,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "335",
+    "date": "2019-02-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54931,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "239",
+    "date": "2019-02-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54932,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "149",
+    "date": "2019-02-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54933,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "309",
+    "date": "2019-02-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54934,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "252",
+    "date": "2019-02-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54935,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "129",
+    "date": "2019-02-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54936,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "294",
+    "date": "2019-02-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54937,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "221",
+    "date": "2019-02-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54938,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "318",
+    "date": "2019-02-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54939,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "62",
+    "date": "2019-02-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54940,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "22",
+    "date": "2019-02-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54941,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "178",
+    "date": "2019-02-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54942,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "274",
+    "date": "2019-02-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54943,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "155",
+    "date": "2019-02-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54944,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "38",
+    "date": "2019-02-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54945,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "203",
+    "date": "2019-02-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54946,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "335",
+    "date": "2019-02-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54947,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "43",
+    "date": "2019-02-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54948,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "177",
+    "date": "2019-02-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54949,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "214",
+    "date": "2019-02-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54950,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "293",
+    "date": "2019-02-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54951,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "228",
+    "date": "2019-02-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54952,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "263",
+    "date": "2019-02-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54953,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "326",
+    "date": "2019-02-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54954,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "93",
+    "date": "2019-02-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54955,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "58",
+    "date": "2019-03-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54956,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "168",
+    "date": "2019-03-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54957,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "334",
+    "date": "2019-03-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54958,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "54",
+    "date": "2019-03-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54959,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "217",
+    "date": "2019-03-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54960,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "55",
+    "date": "2019-03-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54961,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "320",
+    "date": "2019-03-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54962,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "265",
+    "date": "2019-03-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54963,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "263",
+    "date": "2019-03-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54964,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "73",
+    "date": "2019-03-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54965,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "60",
+    "date": "2019-03-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54966,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "136",
+    "date": "2019-03-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54967,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "156",
+    "date": "2019-03-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54968,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "270",
+    "date": "2019-03-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54969,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "33",
+    "date": "2019-03-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54970,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "330",
+    "date": "2019-03-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54971,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "11",
+    "date": "2019-03-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54972,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "197",
+    "date": "2019-03-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54973,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "182",
+    "date": "2019-03-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54974,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "217",
+    "date": "2019-03-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54975,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "52",
+    "date": "2019-03-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54976,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "123",
+    "date": "2019-03-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54977,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "244",
+    "date": "2019-03-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54978,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "225",
+    "date": "2019-03-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54979,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "219",
+    "date": "2019-03-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54980,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "335",
+    "date": "2019-03-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54981,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "116",
+    "date": "2019-03-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54982,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "161",
+    "date": "2019-03-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54983,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "245",
+    "date": "2019-03-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54984,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "152",
+    "date": "2019-03-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54985,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "41",
+    "date": "2019-03-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54986,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "302",
+    "date": "2019-03-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54987,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "307",
+    "date": "2019-03-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54988,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "215",
+    "date": "2019-03-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54989,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "253",
+    "date": "2019-03-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54990,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "112",
+    "date": "2019-03-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54991,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "225",
+    "date": "2019-03-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54992,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "299",
+    "date": "2019-03-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54993,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "50",
+    "date": "2019-03-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54994,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "301",
+    "date": "2019-03-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54995,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "167",
+    "date": "2019-03-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54996,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "160",
+    "date": "2019-03-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54997,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "208",
+    "date": "2019-03-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54998,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "258",
+    "date": "2019-03-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 54999,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "174",
+    "date": "2019-03-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55000,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "296",
+    "date": "2019-03-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55001,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "15",
+    "date": "2019-03-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55002,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "45",
+    "date": "2019-03-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55003,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "43",
+    "date": "2019-03-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55004,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "60",
+    "date": "2019-03-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55005,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "132",
+    "date": "2019-03-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55006,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "328",
+    "date": "2019-03-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55007,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "137",
+    "date": "2019-03-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55008,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "33",
+    "date": "2019-03-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55009,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "231",
+    "date": "2019-03-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55010,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "96",
+    "date": "2019-03-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55011,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "274",
+    "date": "2019-03-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55012,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "51",
+    "date": "2019-03-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55013,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "330",
+    "date": "2019-03-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55014,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "307",
+    "date": "2019-03-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55015,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "256",
+    "date": "2019-03-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55016,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "275",
+    "date": "2019-03-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55017,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "331",
+    "date": "2019-03-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55018,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "216",
+    "date": "2019-03-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55019,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "254",
+    "date": "2019-03-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55020,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "319",
+    "date": "2019-03-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55021,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "278",
+    "date": "2019-03-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55022,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "54",
+    "date": "2019-03-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55023,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "145",
+    "date": "2019-03-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55024,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "311",
+    "date": "2019-03-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55025,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "22",
+    "date": "2019-03-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55026,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "116",
+    "date": "2019-03-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55027,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "86",
+    "date": "2019-03-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55028,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "138",
+    "date": "2019-03-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55029,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "89",
+    "date": "2019-03-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55030,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "113",
+    "date": "2019-03-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55031,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "244",
+    "date": "2019-03-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55032,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "154",
+    "date": "2019-03-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55033,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "132",
+    "date": "2019-03-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55034,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "319",
+    "date": "2019-03-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55035,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "315",
+    "date": "2019-03-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55036,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "191",
+    "date": "2019-03-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55037,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "171",
+    "date": "2019-03-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55038,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "185",
+    "date": "2019-03-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55039,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "291",
+    "date": "2019-03-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55040,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "226",
+    "date": "2019-03-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55041,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "276",
+    "date": "2019-03-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55042,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "148",
+    "date": "2019-03-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55043,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "220",
+    "date": "2019-03-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55044,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "112",
+    "date": "2019-03-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55045,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "296",
+    "date": "2019-03-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55046,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "19",
+    "date": "2019-03-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55047,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "21",
+    "date": "2019-03-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55048,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "299",
+    "date": "2019-03-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55049,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "199",
+    "date": "2019-03-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55050,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "245",
+    "date": "2019-03-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55051,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "327",
+    "date": "2019-03-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55052,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "71",
+    "date": "2019-03-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55053,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "124",
+    "date": "2019-03-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55054,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "264",
+    "date": "2019-03-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55055,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "246",
+    "date": "2019-03-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55056,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "49",
+    "date": "2019-03-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55057,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "206",
+    "date": "2019-03-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55058,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "134",
+    "date": "2019-03-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55059,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "127",
+    "date": "2019-03-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55060,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "200",
+    "date": "2019-03-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55061,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "184",
+    "date": "2019-03-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55062,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "164",
+    "date": "2019-03-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55063,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "187",
+    "date": "2019-03-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55064,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "79",
+    "date": "2019-03-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55065,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "229",
+    "date": "2019-03-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55066,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "25",
+    "date": "2019-03-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55067,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "215",
+    "date": "2019-03-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55068,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "278",
+    "date": "2019-03-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55069,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "130",
+    "date": "2019-03-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55070,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "193",
+    "date": "2019-03-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55071,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "44",
+    "date": "2019-03-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55072,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "61",
+    "date": "2019-03-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55073,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "101",
+    "date": "2019-03-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55074,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "260",
+    "date": "2019-03-28"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55075,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "109",
+    "date": "2019-03-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55076,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "26",
+    "date": "2019-03-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55077,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "291",
+    "date": "2019-03-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55078,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "201",
+    "date": "2019-03-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55079,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "146",
+    "date": "2019-03-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55080,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "95",
+    "date": "2019-03-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55081,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "226",
+    "date": "2019-03-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55082,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "46",
+    "date": "2019-03-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55083,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "276",
+    "date": "2019-03-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55084,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "75",
+    "date": "2019-03-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55085,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "320",
+    "date": "2019-04-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55086,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "58",
+    "date": "2019-04-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55087,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "245",
+    "date": "2019-04-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55088,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "163",
+    "date": "2019-04-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55089,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "214",
+    "date": "2019-04-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55090,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "96",
+    "date": "2019-04-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55091,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "329",
+    "date": "2019-04-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55092,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "219",
+    "date": "2019-04-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55093,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "138",
+    "date": "2019-04-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55094,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "72",
+    "date": "2019-04-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55095,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "84",
+    "date": "2019-04-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55096,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "302",
+    "date": "2019-04-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55097,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "14",
+    "date": "2019-04-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55098,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "264",
+    "date": "2019-04-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55099,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "280",
+    "date": "2019-04-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55100,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "222",
+    "date": "2019-04-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55101,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "178",
+    "date": "2019-04-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55102,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "162",
+    "date": "2019-04-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55103,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "102",
+    "date": "2019-04-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55104,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "120",
+    "date": "2019-04-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55105,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "307",
+    "date": "2019-04-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55106,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "124",
+    "date": "2019-04-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55107,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "230",
+    "date": "2019-04-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55108,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "208",
+    "date": "2019-04-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55109,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "140",
+    "date": "2019-04-05"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55110,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "152",
+    "date": "2019-04-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55111,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "52",
+    "date": "2019-04-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55112,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "150",
+    "date": "2019-04-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55113,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "334",
+    "date": "2019-04-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55114,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "226",
+    "date": "2019-04-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55115,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "330",
+    "date": "2019-04-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55116,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "181",
+    "date": "2019-04-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55117,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "152",
+    "date": "2019-04-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55118,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "287",
+    "date": "2019-04-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55119,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "10",
+    "date": "2019-04-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55120,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "106",
+    "date": "2019-04-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55121,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "73",
+    "date": "2019-04-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55122,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "56",
+    "date": "2019-04-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55123,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "180",
+    "date": "2019-04-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55124,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "279",
+    "date": "2019-04-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55125,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "286",
+    "date": "2019-04-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55126,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "279",
+    "date": "2019-04-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55127,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "92",
+    "date": "2019-04-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55128,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "213",
+    "date": "2019-04-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55129,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "100",
+    "date": "2019-04-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55130,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "218",
+    "date": "2019-04-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55131,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "167",
+    "date": "2019-04-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55132,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "65",
+    "date": "2019-04-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55133,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "266",
+    "date": "2019-04-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55134,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "215",
+    "date": "2019-04-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55135,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "307",
+    "date": "2019-04-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55136,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "134",
+    "date": "2019-04-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55137,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "88",
+    "date": "2019-04-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55138,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "284",
+    "date": "2019-04-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55139,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "101",
+    "date": "2019-04-12"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55140,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "172",
+    "date": "2019-04-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55141,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "317",
+    "date": "2019-04-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55142,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "334",
+    "date": "2019-04-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55143,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "73",
+    "date": "2019-04-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55144,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "153",
+    "date": "2019-04-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55145,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "220",
+    "date": "2019-04-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55146,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "151",
+    "date": "2019-04-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55147,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "97",
+    "date": "2019-04-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55148,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "265",
+    "date": "2019-04-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55149,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "296",
+    "date": "2019-04-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55150,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "256",
+    "date": "2019-04-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55151,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "85",
+    "date": "2019-04-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55152,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "156",
+    "date": "2019-04-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55153,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "287",
+    "date": "2019-04-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55154,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "66",
+    "date": "2019-04-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55155,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "132",
+    "date": "2019-04-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55156,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "73",
+    "date": "2019-04-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55157,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "137",
+    "date": "2019-04-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55158,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "218",
+    "date": "2019-04-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55159,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "67",
+    "date": "2019-04-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55160,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "310",
+    "date": "2019-04-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55161,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "30",
+    "date": "2019-04-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55162,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "38",
+    "date": "2019-04-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55163,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "302",
+    "date": "2019-04-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55164,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "135",
+    "date": "2019-04-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55165,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "72",
+    "date": "2019-04-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55166,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "155",
+    "date": "2019-04-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55167,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "159",
+    "date": "2019-04-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55168,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "304",
+    "date": "2019-04-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55169,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "126",
+    "date": "2019-04-19"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55170,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "84",
+    "date": "2019-04-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55171,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "92",
+    "date": "2019-04-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55172,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "63",
+    "date": "2019-04-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55173,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "173",
+    "date": "2019-04-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55174,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "166",
+    "date": "2019-04-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55175,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "18",
+    "date": "2019-04-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55176,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "184",
+    "date": "2019-04-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55177,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "87",
+    "date": "2019-04-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55178,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "180",
+    "date": "2019-04-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55179,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "248",
+    "date": "2019-04-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55180,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "171",
+    "date": "2019-04-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55181,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "282",
+    "date": "2019-04-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55182,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "226",
+    "date": "2019-04-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55183,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "274",
+    "date": "2019-04-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55184,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "136",
+    "date": "2019-04-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55185,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "285",
+    "date": "2019-04-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55186,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "125",
+    "date": "2019-04-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55187,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "136",
+    "date": "2019-04-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55188,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "167",
+    "date": "2019-04-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55189,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "176",
+    "date": "2019-04-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55190,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "206",
+    "date": "2019-04-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55191,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "313",
+    "date": "2019-04-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55192,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "215",
+    "date": "2019-04-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55193,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "312",
+    "date": "2019-04-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55194,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "262",
+    "date": "2019-04-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55195,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "219",
+    "date": "2019-04-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55196,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "273",
+    "date": "2019-04-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55197,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "118",
+    "date": "2019-04-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55198,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "250",
+    "date": "2019-04-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55199,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "328",
+    "date": "2019-04-26"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55200,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "248",
+    "date": "2019-04-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55201,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "189",
+    "date": "2019-04-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55202,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "126",
+    "date": "2019-04-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55203,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "291",
+    "date": "2019-04-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55204,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "197",
+    "date": "2019-04-27"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55205,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "172",
+    "date": "2019-04-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55206,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "205",
+    "date": "2019-04-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55207,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "216",
+    "date": "2019-04-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55208,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "137",
+    "date": "2019-04-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55209,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "49",
+    "date": "2019-04-29"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55210,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "290",
+    "date": "2019-04-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55211,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "275",
+    "date": "2019-04-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55212,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "321",
+    "date": "2019-04-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55213,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "170",
+    "date": "2019-04-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55214,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "30",
+    "date": "2019-04-30"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55215,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "16",
+    "date": "2019-05-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55216,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "227",
+    "date": "2019-05-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55217,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "47",
+    "date": "2019-05-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55218,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "258",
+    "date": "2019-05-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55219,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "195",
+    "date": "2019-05-01"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55220,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "267",
+    "date": "2019-05-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55221,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "340",
+    "date": "2019-05-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55222,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "250",
+    "date": "2019-05-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55223,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "258",
+    "date": "2019-05-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55224,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "55",
+    "date": "2019-05-02"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55225,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "325",
+    "date": "2019-05-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55226,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "50",
+    "date": "2019-05-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55227,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "224",
+    "date": "2019-05-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55228,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "159",
+    "date": "2019-05-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55229,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "185",
+    "date": "2019-05-03"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55230,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "250",
+    "date": "2019-05-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55231,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "161",
+    "date": "2019-05-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55232,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "143",
+    "date": "2019-05-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55233,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "328",
+    "date": "2019-05-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55234,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "17",
+    "date": "2019-05-04"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55235,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "292",
+    "date": "2019-05-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55236,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "82",
+    "date": "2019-05-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55237,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "268",
+    "date": "2019-05-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55238,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "30",
+    "date": "2019-05-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55239,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "89",
+    "date": "2019-05-06"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55240,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "256",
+    "date": "2019-05-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55241,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "192",
+    "date": "2019-05-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55242,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "58",
+    "date": "2019-05-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55243,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "145",
+    "date": "2019-05-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55244,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "223",
+    "date": "2019-05-07"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55245,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "82",
+    "date": "2019-05-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55246,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "275",
+    "date": "2019-05-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55247,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "45",
+    "date": "2019-05-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55248,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "287",
+    "date": "2019-05-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55249,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "292",
+    "date": "2019-05-08"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55250,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "25",
+    "date": "2019-05-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55251,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "179",
+    "date": "2019-05-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55252,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "144",
+    "date": "2019-05-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55253,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "204",
+    "date": "2019-05-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55254,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "193",
+    "date": "2019-05-09"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55255,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "52",
+    "date": "2019-05-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55256,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "45",
+    "date": "2019-05-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55257,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "207",
+    "date": "2019-05-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55258,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "108",
+    "date": "2019-05-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55259,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "26",
+    "date": "2019-05-10"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55260,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "188",
+    "date": "2019-05-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55261,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "35",
+    "date": "2019-05-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55262,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "142",
+    "date": "2019-05-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55263,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "136",
+    "date": "2019-05-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55264,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "197",
+    "date": "2019-05-11"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55265,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "69",
+    "date": "2019-05-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55266,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "246",
+    "date": "2019-05-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55267,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "251",
+    "date": "2019-05-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55268,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "215",
+    "date": "2019-05-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55269,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "40",
+    "date": "2019-05-13"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55270,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "216",
+    "date": "2019-05-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55271,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "74",
+    "date": "2019-05-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55272,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "98",
+    "date": "2019-05-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55273,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "79",
+    "date": "2019-05-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55274,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "200",
+    "date": "2019-05-14"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55275,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "163",
+    "date": "2019-05-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55276,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "227",
+    "date": "2019-05-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55277,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "305",
+    "date": "2019-05-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55278,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "136",
+    "date": "2019-05-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55279,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "184",
+    "date": "2019-05-15"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55280,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "165",
+    "date": "2019-05-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55281,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "70",
+    "date": "2019-05-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55282,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "289",
+    "date": "2019-05-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55283,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "155",
+    "date": "2019-05-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55284,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "181",
+    "date": "2019-05-16"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55285,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "11",
+    "date": "2019-05-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55286,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "216",
+    "date": "2019-05-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55287,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "220",
+    "date": "2019-05-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55288,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "32",
+    "date": "2019-05-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55289,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "76",
+    "date": "2019-05-17"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55290,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "178",
+    "date": "2019-05-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55291,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "108",
+    "date": "2019-05-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55292,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "253",
+    "date": "2019-05-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55293,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "212",
+    "date": "2019-05-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55294,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "297",
+    "date": "2019-05-18"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55295,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "228",
+    "date": "2019-05-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55296,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 647,
+    "timeslot": 2,
+    "room": "287",
+    "date": "2019-05-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55297,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "30",
+    "date": "2019-05-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55298,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 681,
+    "timeslot": 4,
+    "room": "30",
+    "date": "2019-05-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55299,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 603,
+    "timeslot": 5,
+    "room": "178",
+    "date": "2019-05-20"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55300,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 912,
+    "teacher": 649,
+    "timeslot": 1,
+    "room": "28",
+    "date": "2019-05-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55301,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 954,
+    "teacher": 670,
+    "timeslot": 2,
+    "room": "112",
+    "date": "2019-05-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55302,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 697,
+    "timeslot": 3,
+    "room": "302",
+    "date": "2019-05-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55303,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 617,
+    "timeslot": 4,
+    "room": "118",
+    "date": "2019-05-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55304,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 690,
+    "timeslot": 5,
+    "room": "332",
+    "date": "2019-05-21"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55305,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 642,
+    "timeslot": 1,
+    "room": "45",
+    "date": "2019-05-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55306,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 943,
+    "teacher": 636,
+    "timeslot": 2,
+    "room": "197",
+    "date": "2019-05-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55307,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 687,
+    "timeslot": 3,
+    "room": "232",
+    "date": "2019-05-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55308,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 653,
+    "timeslot": 4,
+    "room": "269",
+    "date": "2019-05-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55309,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 619,
+    "timeslot": 5,
+    "room": "229",
+    "date": "2019-05-22"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55310,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 624,
+    "timeslot": 1,
+    "room": "78",
+    "date": "2019-05-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55311,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 633,
+    "timeslot": 2,
+    "room": "184",
+    "date": "2019-05-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55312,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 925,
+    "teacher": 690,
+    "timeslot": 3,
+    "room": "249",
+    "date": "2019-05-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55313,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1013,
+    "teacher": 696,
+    "timeslot": 4,
+    "room": "285",
+    "date": "2019-05-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55314,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 897,
+    "teacher": 606,
+    "timeslot": 5,
+    "room": "22",
+    "date": "2019-05-23"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55315,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 895,
+    "teacher": 652,
+    "timeslot": 1,
+    "room": "145",
+    "date": "2019-05-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55316,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 642,
+    "timeslot": 2,
+    "room": "304",
+    "date": "2019-05-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55317,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 940,
+    "teacher": 609,
+    "timeslot": 3,
+    "room": "27",
+    "date": "2019-05-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55318,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 676,
+    "timeslot": 4,
+    "room": "30",
+    "date": "2019-05-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55319,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 972,
+    "teacher": 604,
+    "timeslot": 5,
+    "room": "212",
+    "date": "2019-05-24"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55320,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 1020,
+    "teacher": 655,
+    "timeslot": 1,
+    "room": "223",
+    "date": "2019-05-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55321,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 986,
+    "teacher": 606,
+    "timeslot": 2,
+    "room": "45",
+    "date": "2019-05-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55322,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 918,
+    "teacher": 620,
+    "timeslot": 3,
+    "room": "261",
+    "date": "2019-05-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55323,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 993,
+    "teacher": 655,
+    "timeslot": 4,
+    "room": "119",
+    "date": "2019-05-25"
+  }
+},
+{
+  "model": "datacenter.lesson",
+  "pk": 55324,
+  "fields": {
+    "year_of_study": 6,
+    "group_letter": "А",
+    "subject": 961,
+    "teacher": 618,
+    "timeslot": 5,
+    "room": "62",
+    "date": "2019-05-25"
+  }
+}
+]

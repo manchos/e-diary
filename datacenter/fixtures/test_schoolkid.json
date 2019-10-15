@@ -1,0 +1,24 @@
+[
+  {
+    "model": "datacenter.schoolkid",
+    "pk": 6548,
+    "fields": {
+      "full_name": "Голубев Феофан Владленович",
+      "birthday": "2006-11-07",
+      "entry_year": 2013,
+      "year_of_study": 6,
+      "group_letter": "А"
+      }
+    },
+  {
+    "model": "datacenter.schoolkid",
+    "pk": 6551,
+    "fields": {
+      "full_name": "Фролов Иван Григорьевич",
+      "birthday": "2006-02-26",
+      "entry_year": 2013,
+      "year_of_study": 6,
+      "group_letter": "А"
+    }
+  }
+]
