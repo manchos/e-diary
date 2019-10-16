@@ -43,5 +43,5 @@ USE_TZ = True
 
 SHELL_PLUS_PRINT_SQL = True
 SHELL_PLUS_POST_IMPORTS = [
-    ('datacenter.models', ('create_commendation')),
+    ('datacenter.models', ('create_commendation', 'fix_marks')),
 ]

@@ -1,0 +1,156 @@
+[
+{
+  "model": "datacenter.chastisement",
+  "pk": 10725,
+  "fields": {
+    "text": "Очень плохое поведение!",
+    "created": "2019-04-12",
+    "schoolkid": 6548,
+    "subject": 993,
+    "teacher": 676
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10726,
+  "fields": {
+    "text": "Шпоры на контрольной",
+    "created": "2019-01-17",
+    "schoolkid": 6548,
+    "subject": 986,
+    "teacher": 633
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10727,
+  "fields": {
+    "text": "Неявка в школу!",
+    "created": "2018-12-11",
+    "schoolkid": 6548,
+    "subject": 912,
+    "teacher": 649
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10728,
+  "fields": {
+    "text": "Очень шумно говорит на уроках!",
+    "created": "2018-10-15",
+    "schoolkid": 6548,
+    "subject": 1013,
+    "teacher": 603
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10729,
+  "fields": {
+    "text": "Разбил окно!",
+    "created": "2019-01-25",
+    "schoolkid": 6548,
+    "subject": 1020,
+    "teacher": 642
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10730,
+  "fields": {
+    "text": "Не готовился к контрольной!",
+    "created": "2018-11-09",
+    "schoolkid": 6548,
+    "subject": 940,
+    "teacher": 609
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10748,
+  "fields": {
+    "text": "Очень шумно говорит на уроках!",
+    "created": "2019-02-22",
+    "schoolkid": 6551,
+    "subject": 895,
+    "teacher": 652
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10749,
+  "fields": {
+    "text": "Плохо!",
+    "created": "2019-02-14",
+    "schoolkid": 6551,
+    "subject": 986,
+    "teacher": 633
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10750,
+  "fields": {
+    "text": "Неявка в школу!",
+    "created": "2018-12-19",
+    "schoolkid": 6551,
+    "subject": 895,
+    "teacher": 653
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10751,
+  "fields": {
+    "text": "Не готовился к контрольной!",
+    "created": "2019-04-24",
+    "schoolkid": 6551,
+    "subject": 940,
+    "teacher": 687
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10752,
+  "fields": {
+    "text": "Очень шумно говорит на уроках!",
+    "created": "2019-02-20",
+    "schoolkid": 6551,
+    "subject": 895,
+    "teacher": 653
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10753,
+  "fields": {
+    "text": "Очень шумно говорит на уроках!",
+    "created": "2019-04-08",
+    "schoolkid": 6551,
+    "subject": 1020,
+    "teacher": 690
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10754,
+  "fields": {
+    "text": "Очень плохое поведение!",
+    "created": "2019-04-02",
+    "schoolkid": 6551,
+    "subject": 972,
+    "teacher": 690
+  }
+},
+{
+  "model": "datacenter.chastisement",
+  "pk": 10755,
+  "fields": {
+    "text": "Не готовился к контрольной!",
+    "created": "2019-02-16",
+    "schoolkid": 6551,
+    "subject": 1020,
+    "teacher": 655
+  }
+}
+]

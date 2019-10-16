@@ -113,6 +113,7 @@ def remove_chastisements(schoolkid):
     chastisments = Chastisement.objects.filter(schoolkid=schoolkid)
     chastisments.delete()
 
+
 def get_random_commendation():
     commendation_list = ('Молодец!', 'Отлично!', 'Хорошо!',
                          'Гораздо лучше, чем я ожидал!',
@@ -152,25 +153,15 @@ def create_commendation(child_name, lesson_name):
         year_of_study=kid.year_of_study,
         group_letter=kid.group_letter,
         subject__title__contains=lesson_name,
-    ).order_by('-date')[0]
-    # print(last_kid_lesson)
+    ).latest('date')
+
     random_commendation = get_random_commendation()
-    # print(random_commendation)
+
     new_commendation = Commendation.objects.create(
         text=random_commendation,
-        created=last_kid_lesson.date,
+        created=last_kid_lesson.date,  # Дата похвалы совпадет с датой урока.
         schoolkid=kid,
         subject=last_kid_lesson.subject,
         teacher=last_kid_lesson.teacher,
     )
     return new_commendation
-    # new_commendation.save()
-    #
-    # print(last_kid_lesson)
-
-
-#
-# from datacenter.models import create_commendation
-# create_commendation('Фролов Иван', 'Математика')
-# #
-
