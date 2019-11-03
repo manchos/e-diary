@@ -1,6 +1,4 @@
 from django.db import models
-import random
-
 
 class Schoolkid(models.Model):
     """Ученик"""
@@ -94,74 +92,3 @@ class Commendation(models.Model):
     def __str__(self):
         return f"{self.schoolkid.full_name}"
 
-
-schoolkid = Schoolkid.objects.filter(full_name__contains='Фролов Иван')[0]
-# schoolkid2 = Schoolkid.objects.filter(full_name__contains='Голубев Феофан')[0]
-# from datacenter.models import remove_chastisements
-
-
-def fix_marks(schoolkid):
-    Mark.objects.filter(
-        schoolkid=schoolkid, points__in=(2, 3)
-    ).update(points=5)
-
-    # for mark in bad_marks:
-    #     mark.points = 5
-
-
-def remove_chastisements(schoolkid):
-    chastisments = Chastisement.objects.filter(schoolkid=schoolkid)
-    chastisments.delete()
-
-
-def get_random_commendation():
-    commendation_list = ('Молодец!', 'Отлично!', 'Хорошо!',
-                         'Гораздо лучше, чем я ожидал!',
-                         'Ты меня приятно удивил!',
-                         'Великолепно!',
-                         'Прекрасно!', 'Ты меня очень обрадовал!',
-                         'Именно этого я давно ждал от тебя!',
-                         'Сказано здорово – просто и ясно!',
-                         'Ты, как всегда, точен!',
-                         'Очень хороший ответ!', 'Талантливо!',
-                         'Ты сегодня прыгнул выше головы!',
-                         'Я поражен!', 'Уже существенно лучше!',
-                         'Потрясающе!', 'Змечательно!',
-                         'Прекрасное начало!', 'Так держать!',
-                         'Ты на верном пути!', 'Здорово!',
-                         'Это как раз то, что нужно!', 'Я тобой горжусь!',
-                         'С каждым разом у тебя получается всё лучше!',
-                         'Мы с тобой не зря поработали!',
-                         'Я вижу, как ты стараешься!', 'Ты растешь над собой!',
-                         'Ты многое сделал, я это вижу!',
-                         'Теперь у тебя точно все получится!',
-                         )
-    return random.choice(commendation_list)
-
-
-def get_lessons(schoolkid, lesson_name):
-    return Lesson.objects.filter(
-        year_of_study=schoolkid.year_of_study,
-        group_letter=schoolkid.group_letter,
-        subject__title__contains=lesson_name,
-    )
-
-
-def create_commendation(child_name, lesson_name):
-    kid = Schoolkid.objects.filter(full_name__contains=child_name).get()
-    last_kid_lesson = Lesson.objects.filter(
-        year_of_study=kid.year_of_study,
-        group_letter=kid.group_letter,
-        subject__title__contains=lesson_name,
-    ).latest('date')
-
-    random_commendation = get_random_commendation()
-
-    new_commendation = Commendation.objects.create(
-        text=random_commendation,
-        created=last_kid_lesson.date,  # Дата похвалы совпадет с датой урока.
-        schoolkid=kid,
-        subject=last_kid_lesson.subject,
-        teacher=last_kid_lesson.teacher,
-    )
-    return new_commendation

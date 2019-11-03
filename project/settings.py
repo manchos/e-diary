@@ -42,6 +42,18 @@ TIME_ZONE = 'Europe/Moscow'
 USE_TZ = True
 
 SHELL_PLUS_PRINT_SQL = True
+SHELL_PLUS = "ipython"
 SHELL_PLUS_POST_IMPORTS = [
-    ('datacenter.models', ('create_commendation', 'fix_marks')),
+    ('datacenter.schoolkid_script',
+     ('create_commendation', 'fix_marks', 'get_schoolkid')),
 ]
+
+# if 'test' in sys.argv:
+#     INSTALLED_APPS = [
+#         'django.contrib.auth',
+#         'django.contrib.contenttypes',
+#         'django.contrib.sessions',
+#         'django.contrib.messages',
+#         'django.contrib.staticfiles',
+#         'datacenter',
+#     ]
