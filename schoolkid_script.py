@@ -1,16 +1,15 @@
 import os, django, random, argparse
+
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "project.settings")
 django.setup()
 from django.core.exceptions import ObjectDoesNotExist, MultipleObjectsReturned
-from datacenter.models import Schoolkid, Mark, Lesson, Commendation, Chastisement
+from datacenter.models import Schoolkid, Mark, Lesson, Commendation, \
+    Chastisement
 
 
 def get_schoolkid(schoolkid_name):
-    try:
-        kid = Schoolkid.objects.filter(full_name__contains=schoolkid_name).get()
-        return kid
-    except (ObjectDoesNotExist, MultipleObjectsReturned):
-        print("Schoolkid name '{}' doesn't exist.".format(schoolkid_name))
+    kid = Schoolkid.objects.get(full_name__contains=schoolkid_name)
+    return kid
 
 
 def fix_marks(child_name):
@@ -60,10 +59,7 @@ def get_lessons(schoolkid, lesson_name):
 
 
 def create_commendation(child_name, lesson_name):
-    # kid = Schoolkid.objects.filter(full_name__contains=child_name).get()
     kid = get_schoolkid(child_name)
-    if not kid:
-        return False
 
     last_kid_lesson = Lesson.objects.filter(
         year_of_study=kid.year_of_study,
@@ -88,15 +84,21 @@ def set_cli_argument_parse():
         description="The hack script for repo: https://github.com/devmanorg/e-diary"
     )
 
-    subparsers = parser.add_subparsers(title='subcommands',
-                                      description='valid subcommands',
-                                      help='function description'
-                                      )
+    parser.add_argument(
+        'child_name',
+        default='Фролов Иван',
+        type=str,
+        help='schoolkid name (default: Фролов Иван)'
+    )
 
-    # create the parser for the "foo" command
+    subparsers = parser.add_subparsers(
+        title='subcommands',
+        description='subcommands for fix schollkid diary',
+        help='function description'
+    )
+
     parser_comm = subparsers.add_parser('new-comm', help='create commendation')
-    parser_comm.add_argument('-kname', dest="child_name",
-                             type=str, help='schoolkid name')
+
     parser_comm.add_argument('-lesson', dest="lesson_name",
                              type=str, help='lesson name')
     parser_comm.set_defaults(func=create_commendation)
@@ -104,15 +106,12 @@ def set_cli_argument_parse():
     parser_rmchast = subparsers.add_parser('rm-chast',
                                            help='remove chastisements'
                                            )
-    parser_rmchast.add_argument('-kname', dest="child_name",
-                                type=str, help='schoolkid name')
     parser_rmchast.set_defaults(func=remove_chastisements)
 
     parser_fix_marks = subparsers.add_parser(
         'fix-marks', help='remove bad marks and replace them by 5'
-                                           )
-    parser_fix_marks.add_argument('-kname', dest="child_name",
-                                  type=str, help='schoolkid name')
+    )
+
     parser_fix_marks.set_defaults(func=fix_marks)
 
     return parser.parse_args()
@@ -120,11 +119,15 @@ def set_cli_argument_parse():
 
 if __name__ == '__main__':
 
-    cli_argument_parser = set_cli_argument_parse()
-    print(cli_argument_parser)
-    if cli_argument_parser.func == create_commendation:
-        cli_argument_parser.func(
-            cli_argument_parser.child_name, cli_argument_parser.lesson_name
-        )
-    if cli_argument_parser.func in (remove_chastisements, fix_marks):
-        cli_argument_parser.func(cli_argument_parser.child_name)
+    cli_arguments = set_cli_argument_parse()
+
+    try:
+        if cli_arguments.func == create_commendation:
+            cli_arguments.func(
+                cli_arguments.child_name, cli_arguments.lesson_name
+            )
+        if cli_arguments.func in (remove_chastisements, fix_marks):
+            cli_arguments.func(cli_arguments.child_name)
+
+    except (ObjectDoesNotExist, MultipleObjectsReturned):
+        print("Schoolkid name doesn't exist")
